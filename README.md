@@ -3,11 +3,11 @@
 https://kain-prog.github.io/cpf-validation/
 
 
-<img src="./src/imgs/test-cpf-page.PNG" alt="Conteúdo no meio com input de digitação de CPF"> 
-<img src="./src/imgs/test-cpf-invalid.PNG" alt="Retornando que o valor inserido é inválido"> 
-<img src="./src/imgs/test-cpf-valid.PNG" alt="Retornando que o valor inserido é válido"> 
-<img src="./src/imgs/vscode-testCPF.PNG" alt="Código realizado no vscode com JavaScript">
-<img src="./src/imgs/vscode-testCPF 2.PNG" alt="Código realizado no vscode com HTML">
+<img src="./imgs/test-cpf-page.PNG" alt="Conteúdo no meio com input de digitação de CPF"> 
+<img src="./imgs/test-cpf-invalid.PNG" alt="Retornando que o valor inserido é inválido"> 
+<img src="./imgs/test-cpf-valid.PNG" alt="Retornando que o valor inserido é válido"> 
+<img src="./imgs/vscode-testCPF.PNG" alt="Código realizado no vscode com JavaScript">
+<img src="./imgs/vscode-testCPF 2.PNG" alt="Código realizado no vscode com HTML">
 
 > Resultado do Portifólio finalizado.
 
@@ -27,7 +27,7 @@ Pessoa que contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="./src/images/kain perfil 2 branco azul.jpeg" width="100px;" alt="Foto Kain"/><br>
+        <img src="./imgs/kain perfil 2 branco azul.jpeg" width="100px;" alt="Foto Kain"/><br>
         <sub>
           <b>Matheus Santos</b>
         </sub>
