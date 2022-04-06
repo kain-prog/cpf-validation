@@ -6,7 +6,6 @@ let cpfUser = document.getElementById("cpf-user");
 const invalid = 'INVÁLIDO.';
 const valid = 'VÁLIDO.';
 
-
     // Click Button
 
 function handleClick(){       
@@ -16,7 +15,7 @@ function handleClick(){
 
     if(comparation){
         res.style.display = 'block';
-        res.innerHTML = 'O CPF inserido é ' + valid.fontcolor('green');
+        res.innerHTML = 'O CPF inserido é ' + valid.fontcolor('#0f4f02');
     }
     else{
         res.style.display = 'block';
