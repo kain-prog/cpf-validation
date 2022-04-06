@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./imgs/test-icon.PNG">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste CPF</title>
+</head>
+<body>
+    <main class="body-page">
+        <section class="container">
+            <article class="texts">
+                <h1>Teste de CPF</h1>
+                <p>Consulte abaixo se o CPF é válido.</p>
+            </article>
+            <article class="input-field">
+                <label> Insira o CPF: </label>
+                <input type="text" id="cpf-user" placeholder="000.000.000-00" required>
+            </article>
+            <article id="res"></article>
+            <article class="input-field">
+                <button onclick="handleClick()">
+                    Testar
+                </button>
+            </article>
+        </section>
+        <footer>
+            <h2>Desenvolvido por <a href="https://kain-prog.github.io/kain">Kain Developer</a></h2>
+            <p>- &copy; Copyright 2022 - 
+        </footer>
+    </main>
+
+    <script src="validacaoCPF.js"></script>
+</body>
+</html>
