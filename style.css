@@ -12,12 +12,13 @@
     background: url(https://www.teahub.io/photos/full/98-985965_background-green-wallpaper-4k.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100vw;
     height: 100vh;
     position: relative;
 }
 
 .container{
-    background: linear-gradient(45deg, rgba(114, 191, 114, 0.823),rgba(70, 240, 70, 0.713));
+    background: linear-gradient(45deg, rgba(181, 245, 181, 0.644),rgba(114, 251, 114, 0.804));
     background-repeat: repeat;
     background-size: cover;
     width: 400px;
@@ -86,7 +87,7 @@
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 3px;
-    background-color: rgb(209, 245, 229);
+    background-color: rgb(255, 255, 255);
     transition: all 0.4s ease;
     font-weight: 900;
     border-color: rgb(111, 232, 119);
@@ -102,10 +103,10 @@
 #res{
     display: none;
     font-size: 13px;
-    font-family: 'Poppins';
+    font-family:'Poppins';
     padding: 10px;
     letter-spacing: 3px;
-    font-weight: 900;
+    font-weight: 800;
 }
 
 footer{
@@ -136,7 +137,6 @@ footer p{
     font-family: 'Poppins';
     letter-spacing: 3px;
 }
-
 
 @media (max-width: 450px){
     .container{
