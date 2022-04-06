@@ -136,3 +136,19 @@ footer p{
     font-family: 'Poppins';
     letter-spacing: 3px;
 }
+
+
+@media (max-width: 450px){
+    .container{
+        width: 100%;
+    }
+
+    footer h2{
+        left: 10px;
+    }
+
+    footer p{
+        left:20%
+    }
+
+}
